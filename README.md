@@ -3,12 +3,15 @@
 Este proyecto es una API REST construida con **Node.js** y **Express** que permite realizar conversiones entre diferentes unidades de medida como temperatura y distancia.
 
 ---
+<h2>configuracion</h2>
+<b>puerto:3000</b>
 
 <h2>Características</h2>
 <ul>
 <li>- Conversión de Celsius a Fahrenheit</li>
 <li>- Conversión de Fahrenheit a Celsius</li>
 <li>- Conversión de Kilómetros a Millas</li>
+<li>- Conversión de Millas a Kilometros</li>
 </ul>
 
 <ol>
